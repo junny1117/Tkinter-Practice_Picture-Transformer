@@ -15,3 +15,5 @@ Tkinter, Pillow, OpenCV 활용 이미지 변환 프로그램
 ### 2. `Picture Transformer_OpenCV.py`
 
 두 파일 모두 기능은 동일하나 Picture Transformer.py는 Pillow, Picture Transformer_OpenCV.py는 OpenCV로 이미지 회전 등의 기능 구현
+
+### 3. `test.png` - 테스트 용 이미지
