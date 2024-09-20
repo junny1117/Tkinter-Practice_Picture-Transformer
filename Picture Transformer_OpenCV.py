@@ -212,7 +212,7 @@ window.geometry("900x500+100+100")
 window.configure(bg="White")
 
 
-img_icon = Image.open("test.png")
+img_icon = Image.open("Tkinter-Practice_Picture-Transformer/test.png")
 img_icon = img_icon.resize((70, 100), Image.LANCZOS)
 photo_img = ImageTk.PhotoImage(img_icon)
 window.iconphoto(False, photo_img)
