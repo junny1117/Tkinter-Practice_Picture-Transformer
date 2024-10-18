@@ -12,6 +12,14 @@ Tkinter, Pillow, OpenCV 활용 이미지 변환 프로그램
 - 이미지 필터 적용
 - 재시작
 
+## 사용도구/기술 
+
+**Python**: 개발언어
+**Pillow, OpenCV**: 이미지 처리/변환
+**Tkinter**: GUI
+**Visual Studio Code**: 코드 작성
+**Windows**: 운영체제
+
 ## 파일 목록
 
 ### 1. `Picture Transformer.py`
